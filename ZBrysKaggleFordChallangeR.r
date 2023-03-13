@@ -2,7 +2,7 @@
 #Task=KAGGLE:Stay Alert! The Ford Challenge 
 
 #Structure=
-#1.loading libraries and data, splitting the dataset to 3 disjunct set
+#1.loading libraries and data, splitting the dataset to 3 disjunct sets
 #2. boruta and lasso for variable selection
 #3. KMO and PCA for linear comb of inf.
 #4. GBDT for binary classification
